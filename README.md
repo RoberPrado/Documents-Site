@@ -7,6 +7,6 @@ title: Inicio
 
 Esta es la documentación de mi proyecto.
 
-- [Instalación](instalacion.md)
+- [Instalación](instalación.md)
 - [Uso](uso.md)
 - [FAQ](faq.md)
