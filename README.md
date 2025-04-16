@@ -1,13 +1,12 @@
-# Bienvenido a la Documentación 📚
-
-Aquí encontrarás toda la información organizada por secciones:
-
-## 📂 Secciones
-
-- [Instalación](instalacion.md)
-- [Uso del sistema](uso.md)
-- [Preguntas Frecuentes](faq.md)
-
+---
+layout: default
+title: Inicio
 ---
 
-¿Falta algo? Puedes colaborar editando esta documentación.
+# Bienvenido
+
+Esta es la documentación de mi proyecto.
+
+- [Instalación](instalacion.md)
+- [Uso](uso.md)
+- [FAQ](faq.md)
